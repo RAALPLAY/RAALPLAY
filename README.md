@@ -1,5 +1,5 @@
 ### I'm 17 years old and I'm from Venezuela.
-#### I just want to contribute something.
+#### I just want to contribute something :)
 
 ![c#](https://img.shields.io/badge/C%20Sharp-7f1ee6?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-fa4437?style=for-the-badge&logo=java&logoColor=white)
